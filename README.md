@@ -4,12 +4,14 @@
 <h3>I'm Sam.</h3>
 <P> 🏗️<s>Mobile Crane Operator</s><br>  
 <br>💻 Developer-to-be @ Get Coding<br>
-<br>👶 I recently completed my first <a href="https://samtessier.github.io/Maintenance-Planner/">project</a> ever, using Javascript, HTML and CSS. <br>
-
+<br>👇 I recently built my first few projects, check them out below!<br>
+<br><a href="samtessier.github.io/Contact-Management/">🦉 EdNet<a><br>
+ <br><a href="https://samtessier.github.io/Maintenance-Planner/">🚌 Fleet Maintenance Planner<a><br>
+  <br>
 <table>
  <thead>
   <tr>
-   <th colspan="5" align="center">Languages || Framworks || Tools</th>
+   <th colspan="5" align="center">Languages  ·  Frameworks  ·  Tools</th>
   </tr>
  </thead>
  <tbody>
@@ -28,7 +30,9 @@
     <td><a href="https://getbootstrap.com/" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" width="40" style="max-width: 100%;"></a></td>
   </tr>
   <tr>
-   <td><a href="github.com/SamTessier" rel="nofollow"><img align="center" src="6 (1).gif" alt="Bootstrap" height="40" width="40" style="max-width: 100%;"></a></td>
+   <td>
+      <img align="center" src="6 (1).gif" alt="Bootstrap" title="I'm currently learning backend, check back soon!" height="40" width="40" style="max-width: 100%;">
+   </td>
   </tr>
  </tbody>
 </table>
