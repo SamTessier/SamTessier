@@ -26,7 +26,9 @@
    <td><a href="https://www.npmjs.com/" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" height="40" width="40" style="max-width: 100%;"></a></td>
    <td><a href="https://mui.com/" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="MUI" height="40" width="40" style="max-width: 100%;"></a></td>
     <td><a href="https://getbootstrap.com/" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" width="40" style="max-width: 100%;"></a></td>
-   <td><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" width="40" style="max-width: 100%;"></a></td>
+  </tr>
+  <tr>
+   <td><img align="center" src= alt="Bootstrap" height="40" width="40" style="max-width: 100%;"></a></td>
   </tr>
  </tbody>
 </table>
