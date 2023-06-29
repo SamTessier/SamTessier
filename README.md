@@ -3,10 +3,10 @@
 <h2>Hey there 👋</h2>
 <h3>I'm Sam.</h3><br>
 <P> 🏗️<s>Mobile Crane Operator</s><br>  
-<br>💻 Developer-to-be @ <a href="https://www.getcoding.ca/" rel="nofollow">Get Coding<a/><br>
+<br>💻 Developer-to-be @ <a href="https://www.getcoding.ca/" rel="nofollow">Get Coding</a><br>
 <br><h2>I recently built my first few projects, check them out below! 👇 </h2>
-<br><a href="https://samtessier.github.io/Contact-Management/">🦉 EdNet Contact Management<a> built using React.js & MUI<br>
- <br><a href="https://samtessier.github.io/Maintenance-Planner/">🚌 Fleet Maintenance Planner<a> built using JS, jQuery HTML, CSS & Bootstrap<br>
+<br><a href="https://samtessier.github.io/Contact-Management/">🦉 EdNet Contact Management</a> built using React.js & MUI<br>
+ <br><a href="https://samtessier.github.io/Maintenance-Planner/">🚌 Fleet Maintenance Planner</a> built using JS, jQuery HTML, CSS & Bootstrap<br>
  <br><br>
 <table>
  <thead>
@@ -31,7 +31,7 @@
   </tr>
   <tr>
    <td>
-      <img align="center" src="6 (1).gif" alt="Bootstrap" title="Learning backend, check back soon!" height="40" width="40" style="max-width: 100%;">
+      <img align="center" src="6 (1).gif" title="Learning backend, check back soon!" height="40" width="40" style="max-width: 100%;">
    </td>
   </tr>
  </tbody>
