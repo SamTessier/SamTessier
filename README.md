@@ -4,10 +4,10 @@
 <h3>I'm Sam.</h3>
 <P> 🏗️<s>Mobile Crane Operator</s><br>  
 <br>💻 Developer-to-be @ Get Coding<br>
-<br>👇 I recently built my first few projects, check them out below!<br>
-<br><a href="samtessier.github.io/Contact-Management/">🦉 EdNet<a><br>
- <br><a href="https://samtessier.github.io/Maintenance-Planner/">🚌 Fleet Maintenance Planner<a><br>
-  <br>
+<br><h2>I recently built my first few projects, check them out below! 👇 </h2>
+<br><a href="samtessier.github.io/Contact-Management/">🦉 EdNet<a> built using React.js & MUI<br>
+ <br><a href="https://samtessier.github.io/Maintenance-Planner/">🚌 Fleet Maintenance Planner<a> built using JS, jQuery HTML, CSS & Bootstrap<br>
+ <br><br>
 <table>
  <thead>
   <tr>
