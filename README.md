@@ -28,7 +28,7 @@
     <td><a href="https://getbootstrap.com/" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" height="40" width="40" style="max-width: 100%;"></a></td>
   </tr>
   <tr>
-   <td><img align="center" src= alt="Bootstrap" height="40" width="40" style="max-width: 100%;"></a></td>
+   <td><a href="github.com/SamTessier" rel="nofollow"><img align="center" src="6 (1).gif" alt="Bootstrap" height="40" width="40" style="max-width: 100%;"></a></td>
   </tr>
  </tbody>
 </table>
