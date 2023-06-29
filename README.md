@@ -1,7 +1,7 @@
 
 
 <h2>Hey there 👋</h2>
-<h3>I'm Sam.</h3>
+<h3>I'm Sam.</h3><br>
 <P> 🏗️<s>Mobile Crane Operator</s><br>  
 <br>💻 Developer-to-be @ Get Coding<br>
 <br><h2>I recently built my first few projects, check them out below! 👇 </h2>
