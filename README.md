@@ -3,7 +3,7 @@
 <h2>Hey there 👋</h2>
 <h3>I'm Sam.</h3><br>
 <P> 🏗️<s>Mobile Crane Operator</s><br>  
-<br>💻 Developer-to-be @ Get Coding<br>
+<br>💻 Developer-to-be @ <a href="https://www.getcoding.ca/" rel="nofollow">Get Coding<a/><br>
 <br><h2>I recently built my first few projects, check them out below! 👇 </h2>
 <br><a href="https://samtessier.github.io/Contact-Management/">🦉 EdNet Contact Management<a> built using React.js & MUI<br>
  <br><a href="https://samtessier.github.io/Maintenance-Planner/">🚌 Fleet Maintenance Planner<a> built using JS, jQuery HTML, CSS & Bootstrap<br>
