@@ -37,6 +37,6 @@
  </tbody>
 </table>
 <br>
-<a href="https://www.linkedin.com/in/samtessier1/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  height="40" width="40"/><a>
+<a href="https://www.linkedin.com/in/samtessier1/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  height="30" width="30"/><a>
           
 
