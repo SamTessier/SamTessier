@@ -31,7 +31,7 @@
   </tr>
   <tr>
    <td>
-      <img align="center" src="6 (1).gif" alt="Bootstrap" title="I'm currently learning backend, check back soon!" height="40" width="40" style="max-width: 100%;">
+      <img align="center" src="6 (1).gif" alt="Bootstrap" title="Learning backend, check back soon!" height="40" width="40" style="max-width: 100%;">
    </td>
   </tr>
  </tbody>
